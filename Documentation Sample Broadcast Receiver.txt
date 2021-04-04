@@ -1,0 +1,5 @@
+To use Broadcast Receiver
+1. Make new file kotlin for specific Broadcast then implement [ intent.getBooleanExtra("state", false) ]
+2. Next implement file broadcast in activity or fragment you want and also new function onStop()
+
+Note: for using another Broadcast Receiver you must see another documentation in internet
